@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\plusSeven\plusSeven\bin\Debug\plusSeven.exe.config
+D:\Visual Studio\Project\plusSeven\plusSeven\bin\Debug\plusSeven.exe
+D:\Visual Studio\Project\plusSeven\plusSeven\bin\Debug\plusSeven.pdb
+D:\Visual Studio\Project\plusSeven\plusSeven\obj\Debug\plusSeven.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\plusSeven\plusSeven\obj\Debug\plusSeven.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\plusSeven\plusSeven\obj\Debug\plusSeven.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\plusSeven\plusSeven\obj\Debug\plusSeven.exe
+D:\Visual Studio\Project\plusSeven\plusSeven\obj\Debug\plusSeven.pdb
